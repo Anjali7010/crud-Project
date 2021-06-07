@@ -96,6 +96,11 @@
 		 <td>Anjali</td>
 		  <td>anjali@gmail.com</td>
 		  <td>4646645667</td>
+		  <td>2</td>
+          <td><img scr="" width="35"></td>
+          <td>Sathya</td>
+          <td> sathya@gmail.com</td>
+          <td> 5678432334</td>
 		  <td>
 		  <a href="#" class="badge badge-primary p-2">Details</a> |
 		  <a href="#" class="badge badge-danger p-2">Delete</a> |
